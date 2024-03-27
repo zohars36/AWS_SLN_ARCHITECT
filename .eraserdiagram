@@ -1,0 +1,6 @@
+  Main Server {
+    Server [icon: aws-ec2]
+    Data [icon: aws-rds]
+    Server[icon: aws-ec2]
+  }
+
